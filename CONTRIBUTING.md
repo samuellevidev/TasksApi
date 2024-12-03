@@ -34,11 +34,10 @@ Antes de começar, certifique-se de ter os seguintes softwares instalados em sua
 1. **Git**  
    - [Instruções de instalação do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-2. **[Linguagem/Framework usado no projeto]** (ex.: Python, Node.js, etc.)  
+2. **NodeJs e Express**
    - Comando para verificar a instalação:  
      ```bash  
-     node -v # Para Node.js  
-     python --version # Para Python  
+     insia algo mais tarde. 
      ```
 
 1. **Editor de código/IDE**
