@@ -1,4 +1,13 @@
 # TasksApi
+## Sumário
+
+* [Descrição do Projeto](#descrição-do-projeto)
+* [Como baixar o repositório](#como-baixar-o-repositório)
+* [Pré-requisitos](#pré-requisitos)
+* [Contributing](#contributing)
+* [Autores](#autores)
+* [Licença](#licença)
+
 ## Descrição do Projeto
 O ==TaskHub== é uma plataforma projetada para auxiliar usuários na organização, monitoramento e atualização de projetos e tarefas de forma eficiente. Ela oferece uma ampla gama de funcionalidades, incluindo:
 
