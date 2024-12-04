@@ -12,7 +12,6 @@ O ==TaskHub== é uma plataforma projetada para auxiliar usuários na organizaç�
 
 Com suporte à acessibilidade, personalização, e integração com ferramentas externas, a API é ideal para gerenciar projetos individuais ou colaborativos, ajudando usuários a manterem seus objetivos organizados e atingíveis.
 
----
 
 ## Como Baixar o Repositório
 
@@ -25,7 +24,6 @@ git clone https://github.com/samuellevidev/TasksApi.git
 cd tasksapi
 ```
 
----
 
 ## Pré-requisitos
 
@@ -34,16 +32,13 @@ Antes de começar, certifique-se de ter os seguintes softwares instalados em sua
 1. **Git**  
    - [Instruções de instalação do Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
-2. **NodeJs e Express**
-   - Comando para verificar a instalação:  
-     ```bash  
-     insia algo mais tarde. 
-     ```
-
-1. **Editor de código/IDE**
+2. **[Tutorial de Fluxo](https://github.com/samuellevidev/TasksApi/blob/main/tasksdocs/Models/mindmap/Markdown%20to%20PDF.pdf)**
+   
+3. **[Configuração de Ambiente](https://github.com/samuellevidev/TasksApi/blob/main/tasksdocs/Models/mindmap/Env.pdf)**
+   
+4. **Editor de código/IDE**
    -  Abra o diretório do projeto dentro da ferramenta de desenvolvimento escolhida (ex. Vs Code).
 
----
 
 ## Como Contribuir  
 
@@ -88,10 +83,8 @@ git push origin nome-da-sua-branch
 3. Clique em "==New Pull Request==".  
 4. Preencha os detalhes e envie sua solicitação.  
 
----
 
 ## Entre em Contato
 
 Caso tenha dúvidas ou precise de ajuda, sinta-se à vontade para abrir uma [Issue](https://github.com/samuellevidev/TasksApi/issues)
 
----
